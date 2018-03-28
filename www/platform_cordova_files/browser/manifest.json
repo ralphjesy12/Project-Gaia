@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Project Gaia",
+  "short_name": "Project Gaia",
+  "version": "app.project.gaia",
+  "description": "Saving Mother Earth",
+  "author": "Ralph John Galindo",
+  "icons": [],
+  "start_url": "index.html"
+}
